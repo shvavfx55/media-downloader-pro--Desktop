@@ -1,0 +1,7 @@
+{
+  "version": "2.0.8",
+  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.7/MediaDownloaderPro-Setup-2.0.7.exe",
+  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.7/MediaDownloaderPro-Setup-2.0.7.msi",
+  "tutorialUrl": "https://youtu.be/FUJ9qiIsVos",
+  "notes": "Media Downloader Pro Desktop 2.0.7\n\n• New animated live progress for download and conversion phases\n• Shows downloaded size, estimated total, speed, ETA, and connection wait time\n• 45-second startup watchdog replaces multi-minute Connecting 0% stalls with a useful error\n• Clean filenames no longer append extractor IDs\n• Normal downloads replace same-title files instead of falsely completing with an old file\n• Verifies a newly created output before reporting success\n• New copyable diagnostics log panel\n• Trim preview now shows the selected duration in seconds\n• Completion action simplified to Show file"
+}
