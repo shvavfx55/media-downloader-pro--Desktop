@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
-  "tag": "V2.1.1",
+  "version": "2.1.3",
+  "tag": "V2.1.3",
   "pub_date": "2026-07-31T00:00:00Z",
-  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.1/MediaDownloaderPro-Setup-2.1.1.exe",
-  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.1.1/MediaDownloaderPro-Setup-2.1.1.msi",
+  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.3/MediaDownloaderPro-Setup-2.1.2.exe",
+  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.1.3/MediaDownloaderPro-Setup-2.1.2.msi",
   "sha256Win": "",
   "sizeWin": 0,
   "tutorialUrl": "https://youtu.be/FUJ9qiIsVos",
