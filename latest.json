@@ -1,7 +1,11 @@
 {
-  "version": "2.0.7",
-  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.7/MediaDownloaderPro-Setup-2.0.7.exe",
-  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.7/MediaDownloaderPro-Setup-2.0.7.msi",
+  "version": "2.1.1",
+  "tag": "V2.1.1",
+  "pub_date": "2026-07-31T00:00:00Z",
+  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.1/MediaDownloaderPro-Setup-2.1.1.exe",
+  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.1.1/MediaDownloaderPro-Setup-2.1.1.msi",
+  "sha256Win": "",
+  "sizeWin": 0,
   "tutorialUrl": "https://youtu.be/FUJ9qiIsVos",
-  "notes": "Media Downloader Pro Desktop 2.0.7\n\n• New animated live progress for download and conversion phases\n• Shows downloaded size, estimated total, speed, ETA, and connection wait time\n• 45-second startup watchdog replaces multi-minute Connecting 0% stalls with a useful error\n• Clean filenames no longer append extractor IDs\n• Normal downloads replace same-title files instead of falsely completing with an old file\n• Verifies a newly created output before reporting success\n• New copyable diagnostics log panel\n• Trim preview now shows the selected duration in seconds\n• Completion action simplified to Show file"
+  "notes": "Media Downloader Pro Desktop 2.1.1\n\n• AI frame interpolation (RIFE v4.7 / 4.8 / 4.9 + fp32 timestep) in the Media Converter, with GPU (CUDA / DirectML) or CPU device selection and automatic model download\n• Optical flow and frame blending quality further improved for After Effects-style motion\n• New Feedback panel: send bug reports and suggestions (with optional diagnostics log) straight from the app\n• Open models folder shortcut and live model download progress in Settings\n• Credits updated for ONNX Runtime, RIFE and UVR5"
 }
