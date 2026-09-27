@@ -1,11 +1,7 @@
 {
-  "version": "2.1.2",
-  "tag": "V2.1.2",
-  "pub_date": "2026-07-31T00:00:00Z",
-  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.3/MediaDownloaderPro-Setup-2.1.2.exe",
-  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.1.3/MediaDownloaderPro-Setup-2.1.2.msi",
-  "sha256Win": "",
-  "sizeWin": 0,
+  "version": "2.0.9",
+  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.9/MediaDownloaderPro-Setup-2.0.9.exe",
+  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.9/MediaDownloaderPro-Setup-2.0.9.msi",
   "tutorialUrl": "https://youtu.be/FUJ9qiIsVos",
-  "notes": "Media Downloader Pro Desktop 2.1.1\n\n• AI frame interpolation (RIFE v4.7 / 4.8 / 4.9 + fp32 timestep) in the Media Converter, with GPU (CUDA / DirectML) or CPU device selection and automatic model download\n• Optical flow and frame blending quality further improved for After Effects-style motion\n• New Feedback panel: send bug reports and suggestions (with optional diagnostics log) straight from the app\n• Open models folder shortcut and live model download progress in Settings\n• Credits updated for ONNX Runtime, RIFE and UVR5"
+  "notes": "Media Downloader Pro Desktop 2.0.9\n\n• Fixed: \"Unable to write ... try running as administrator\" when updating yt-dlp on a Program Files install — updates now fall back to a user-writable folder automatically, no admin needed\n• Added a live progress bar for yt-dlp updates (Settings → Binaries)"
 }
