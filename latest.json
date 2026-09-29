@@ -1,7 +1,7 @@
 {
   "version": "2.1.4",
-  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.2/MediaDownloaderPro-Setup-2.1.4.exe",
-  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/V2.0.9/MediaDownloaderPro-Setup-2.0.9.msi",
+  "downloadUrlWin": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.4/MediaDownloaderPro-Setup-2.1.4.exe",
+  "downloadUrlMsi": "https://github.com/shvavfx55/media-downloader-pro--Desktop/releases/download/v2.1.4/MediaDownloaderPro-Setup-2.1.4.msi",
   "tutorialUrl": "https://youtu.be/FUJ9qiIsVos",
   "notes": "Media Downloader Pro Desktop 2.0.9\n\n• Fixed: \"Unable to write ... try running as administrator\" when updating yt-dlp on a Program Files install — updates now fall back to a user-writable folder automatically, no admin needed\n• Added a live progress bar for yt-dlp updates (Settings → Binaries)"
 }
